@@ -1,2 +1,2 @@
-# glasspwhiskey.github.io
+# glassowhiskey.github.io
 Im a student.
