@@ -1,0 +1,23 @@
+h1{
+	background: #B3B3B3;
+	font-size: 150%
+}
+header{
+	background: #666666;
+	text-align: center;
+	font-size: 150%;
+}
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Time New Roman",serif;
+}
+h2{
+	background: #B3B3B3;
+	font-size: 150%
+}
+details{
+	font-style: italic;
+}
+summary{
+	font-style: normal;
+}
